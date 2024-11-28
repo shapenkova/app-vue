@@ -1,4 +1,4 @@
-# **Vue Expectation of positive events** 👟
+# **Vue Expectation of positive events** 
 
 ## Описание проекта:
 
